@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UsingDecl.cpp">
+    <ClCompile Include="t.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
